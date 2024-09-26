@@ -1,0 +1,11 @@
+com/example/quizwiz/BuildConfig.java
+ com.example.quizwiz.BuildConfig
+com/example/quizwiz/WelcomeActivity.java
+ com.example.quizwiz.WelcomeActivity
+ com.example.quizwiz.WelcomeActivity$1
+com/example/quizwiz/CompletionActivity.java
+ com.example.quizwiz.CompletionActivity
+com/example/quizwiz/QuizActivity.java
+ com.example.quizwiz.QuizActivity
+ com.example.quizwiz.QuizActivity$1
+ com.example.quizwiz.QuizActivity$2
