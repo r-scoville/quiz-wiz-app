@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz Wiz</string>
+    <string name="cta_btn_start">Start Quiz</string>
+    <string name="cta_btn_next">Next  ></string>
+    <string name="cta_btn_exit">Exit</string>
+    <string name="completion_msg">Quiz complete!</string>
+    <string name="prompt_name">What\'s your name?</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="welcome_msg">Hi! Welcome to Quiz Wiz.</string>
+    <string name="source_illustration">Illustration by Icons 8 from Ouch!</string>
+    <string name="user_name"></string>
+    <string name="score">\'s Score: </string>
+    <string name="questions_count">/10</string>
+    <string name="success">Correct!</string>
+    <string name="error">Incorrect</string>
+</resources>

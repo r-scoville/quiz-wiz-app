@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuizWiz" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/light_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/yellow</item>
+        <!--        <item name="colorSecondaryVariant">@color/yellow</item>-->
+        <item name="colorOnSecondary">@color/dark_blue</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize your theme here. -->
+        <item name="colorError">@color/error</item>
+        <item name="color">@color/success</item>
+        <item name="colorButtonNormal">@color/light_blue</item>
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="backgroundColor">@color/white</item>
+    </style>
+</resources>

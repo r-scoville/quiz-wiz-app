@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quizwiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_brain"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon_brain"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuizWiz">
+
+        <activity
+            android:name=".CompletionActivity"
+            android:label="CompletionActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="CompletionActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".QuizActivity"
+            android:label="QuizActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="QuizActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
