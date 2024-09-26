@@ -5,7 +5,7 @@ Date: November 2021
 <br />  
 
 ### About  
-A mobile quiz application that supports a multiple-choice format  
+A mobile quiz application that supports a multiple-choice format, coded in Java  
 
 <br />  
 
