@@ -1,6 +1,5 @@
 # Quiz Wiz App  
-Author: Rose Scoville  
-Date: November 2021  
+Author: Rose Scoville
 
 <br />  
 
